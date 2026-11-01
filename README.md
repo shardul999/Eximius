@@ -76,7 +76,7 @@ This site is hosted with **GitHub Pages**. To deploy your own copy:
 ## 👤 Author
  
 **Shardul Deshmukh**
-- GitHub: [@your-username](https://github.com/your-username)
+- GitHub: [https://github.com/shardul999](https://github.com/shardul999)
 - Email: sharduldeshmukh999@gmail.com
 ## 📄 License
  
