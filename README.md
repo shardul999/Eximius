@@ -13,7 +13,7 @@
  
 ## 📖 About
  
-**Eximius** is an introductory website created as part of a course assignment for **[Course Name / Code]** at **[College / University Name]**.
+**Eximius** is an introductory website created as part of a course assignment for **EMOS - 2612110** at **MIT Academy Of Engineering**.
  
 The goal of this project was to apply the fundamentals of web development, including structuring content with HTML, styling it with CSS, and adding interactivity with JavaScript, to build a clean, usable, and responsive website from scratch.
  
@@ -28,13 +28,7 @@ The goal of this project was to apply the fundamentals of web development, inclu
  
 - **HTML5**: structure and content
 - **CSS3**: styling, layout (Flexbox / Grid), and responsiveness
-- **JavaScript**: interactivity and dynamic behavior
-## 📸 Screenshots
- 
-<!-- Replace these with your own screenshots -->
-| Home Page | Mobile View |
-|-----------|-------------|
-| ![Home](screenshots/home.png) | ![Mobile](screenshots/mobile.png) |
+- **node.js**: interactivity and dynamic behavior
  
 ## 📁 Project Structure
  
@@ -54,10 +48,6 @@ eximius/
  
 No installation or build steps are required.
  
-1. **Clone the repository**
-```bash
-   git clone https://github.com/your-username/eximius.git
-```
 2. **Navigate into the folder**
 ```bash
    cd eximius
@@ -85,9 +75,9 @@ This site is hosted with **GitHub Pages**. To deploy your own copy:
 - [ ] Add animations and transitions
 ## 👤 Author
  
-**[Your Name]**
+**Shardul Deshmukh**
 - GitHub: [@your-username](https://github.com/your-username)
-- Email: your.email@example.com
+- Email: sharduldeshmukh999@gmail.com
 ## 📄 License
  
 This project was created for educational purposes as part of a course assignment. Feel free to use it for learning and reference.
